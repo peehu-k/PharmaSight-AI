@@ -1,5 +1,7 @@
 # PharmaSight - AI-Powered Pharmaceutical Blister Pack Inspection
 
+Peehu Kandwal and Pragati - Machine Vision
+
 Advanced quality control system for pharmaceutical blister pack inspection using computer vision and explainable AI.
 
 ## Features
