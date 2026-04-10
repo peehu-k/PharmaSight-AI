@@ -1,0 +1,11 @@
+{
+  "blur_score": 0.2,
+  "brightness_score": 0.15,
+  "contrast_score": 0.1,
+  "detection_confidence": 0.15,
+  "overexposure_penalty": 0.1,
+  "underexposure_penalty": 0.1,
+  "object_centering": 0.1,
+  "edge_clipping_penalty": 0.05,
+  "dynamic_range": 0.05
+}
